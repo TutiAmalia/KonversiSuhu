@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KonversiSuhu</string>
+    <string name="nilai_celcius">Nilai Celcius</string>
+    <string name="fahrenheit">FAHRENHEIT</string>
+    <string name="kelvin">KELVIN</string>
+    <string name="reamur">REAMUR</string>
+    <string name="masukkan_nilai_derajat_celcius">Masukkan Nilai Derajat Celcius</string>
+    <string name="reset">RESET</string>
+</resources>
